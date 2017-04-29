@@ -1,0 +1,15 @@
+{
+  "name": "any-card",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": "",
+  "author": "Beau Carnes",
+  "dependencies": {
+    "async": "~0.2.8",
+    "body-parser": "^1.17.1",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.26",
+    "socket.io": "~0.9.14"
+  }
+}
